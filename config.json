@@ -1,0 +1,15 @@
+{
+  "schoolName": "Clayton-le-Woods",
+  "EntraClientId": "21947c19-ece2-49c5-9baa-4064f4574de6",
+  "EntraTenantId": "f962b94e-7a9e-457f-bffb-c59767f6b28e",
+  "EntraRedirectUri": "https://eduworkflowTest.vercel.app/",
+  "Email": "o.kerr@clayton-le-woods.lancs.sch.uk",
+  "ConsentToAnalytics": false,
+  "Address": "University of Lancashire",
+  "OneDriveId": "9b5b7cf0-415d-40c0-a54a-89e3d6a095b2",
+  "pupilPassport": true,
+  "ResourceSupport": false,
+  "PolicyHelper": false,
+  "DocumentCompare": false,
+  "createdAt": "2026-06-19T09:17:40.241Z"
+}
