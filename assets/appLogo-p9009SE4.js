@@ -1,0 +1,1 @@
+var e=`/assets/appLogo-C8jHbj8q.png`;export{e as default};
