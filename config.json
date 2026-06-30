@@ -11,7 +11,7 @@
   "ResourceSupport": true,
   "PolicyHelper": true,
   "DocumentCompare": true,
-  "BackendUrl": "https://marklochrie.co.uk/eduworkflow",
+  "BackendUrl": "https://openpanel.marklochrie.co.uk/backend",
   "PassportSchoolPhrase": "With God We Grow",
   "IsMainLogo": true,
   "IsSecondaryLogo": true,
