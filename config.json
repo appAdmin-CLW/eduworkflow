@@ -1,19 +1,19 @@
 {
-  "schoolName": "Clayton-le-Woods",
+  "schoolName": "Clayton-le-Woods C E Aided Primary School",
   "EntraClientId": "21947c19-ece2-49c5-9baa-4064f4574de6",
   "EntraTenantId": "f962b94e-7a9e-457f-bffb-c59767f6b28e",
   "EntraRedirectUri": "https://eduworkflow-clayton-le-woods.vercel.app/",
   "Email": "o.kerr@clayton-le-woods.lancs.sch.uk",
   "ConsentToAnalytics": true,
-  "Address": "Clayton-le-Woods, Chorley PR6 7EU",
+  "Address": "Clayton-le-Woods",
   "OneDriveId": "78e57952-e665-4a76-a556-994c54054f55",
   "pupilPassport": true,
   "ResourceSupport": true,
   "PolicyHelper": true,
   "DocumentCompare": true,
-  "BackendUrl": "https://marklochrie.co.uk/eduworkflow/backend",
   "PassportSchoolPhrase": "With God We Grow",
   "IsMainLogo": true,
   "IsSecondaryLogo": true,
-  "createdAt": "2026-06-19T12:23:03.496Z"
+  "BackendUrl": "https://marklochrie.co.uk/eduworkflow/backend",
+  "AnalyticsUrl": "https://openpanel.marklochrie.co.uk"
 }
