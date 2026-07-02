@@ -5,6 +5,41 @@
     <link rel="icon" type="image/svg+xml" href="/assets/appLogo-C8jHbj8q.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>eduWorkFlow</title>
+    <script>
+      window.op =
+        window.op ||
+        (function () {
+          var n = [];
+          return new Proxy(
+            function () {
+              arguments.length && n.push([].slice.call(arguments));
+            },
+            {
+              get: function (t, r) {
+                return "q" === r
+                  ? n
+                  : function () {
+                      n.push([r].concat([].slice.call(arguments)));
+                    };
+              },
+              has: function (t, r) {
+                return "q" === r;
+              },
+            },
+          );
+        })();
+      window.op("init", {
+        apiUrl: "https://openpanel.marklochrie.co.uk/api",
+        clientId: "0da84132-4f46-4b52-ba0d-40531a802b75",
+        trackScreenViews: true,
+        trackOutgoingLinks: true,
+        trackAttributes: true,
+        // sessionReplay: {
+        //   enabled: true,
+        // },
+      });
+    </script>
+    <script src="https://openpanel.dev/op1.js" defer async></script>
     <script type="module" crossorigin src="/assets/index-BqvfsTx_.js"></script>
     <link rel="stylesheet" crossorigin href="/assets/index-B4nSeMNc.css">
   </head>
