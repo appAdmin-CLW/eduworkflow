@@ -1,0 +1,7 @@
+{
+  "years": ["Pre-School", "Reception", "Year 1", "Year 2", "Year 3", "Year 4", "Year 5", "Year 6"],
+  "terms": ["Autumn", "Spring", "Summer"],
+  "stages": ["Draft", "Incomplete", "Awaiting Approval", "Completed Pending Evaluation", "Completed"],
+  "needs": ["Communication and Interaction", "Cognition and Learning", "Social, Emotional and Mental Health", "Sensory and Physical Needs"],
+  "subjects": ["English", "Maths", "Science", "Art", "Computing", "Design Technology", "Geography", "History", "Languages", "Music", "Physical Education", "PSHE", "Religious Education"]
+}

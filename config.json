@@ -11,6 +11,7 @@
   "ResourceSupport": true,
   "PolicyHelper": true,
   "DocumentCompare": true,
+  "Reports": true,
   "PassportSchoolPhrase": "With God We Grow",
   "IsMainLogo": true,
   "IsSecondaryLogo": true,
