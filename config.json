@@ -2,7 +2,7 @@
   "schoolName": "Clayton-le-Woods C E Aided Primary School",
   "EntraClientId": "21947c19-ece2-49c5-9baa-4064f4574de6",
   "EntraTenantId": "f962b94e-7a9e-457f-bffb-c59767f6b28e",
-  "EntraRedirectUri": "https://eduworkflow-clayton-le-woods.vercel.app/",
+  "EntraRedirectUri": "https://eduworkflow-clayton-le-woods-lancs-sch-uk.vercel.app/",
   "Email": "o.kerr@clayton-le-woods.lancs.sch.uk",
   "ConsentToAnalytics": true,
   "Address": "Clayton-le-Woods",
@@ -18,5 +18,5 @@
   "BackendUrl": "https://marklochrie.co.uk/eduworkflow/backend/common",
   "AiBackendUrl": "https://marklochrie.co.uk/eduworkflow/backend/ai",
   "AnalyticsUrl": "https://openpanel.marklochrie.co.uk",
-  "AnalyticsBackendUrl": "https://openpanel.marklochrie.co.uk/analytics"
+  "AnalyticsBackendUrl": "https://openpanel.marklochrie.co.uk/backend/analytics"
 }
