@@ -31,7 +31,7 @@
         },
         {
           "key": "Content-Security-Policy",
-          "value": "default-src 'self'; script-src 'self' https://openpanel.dev 'sha256-fCsui8nEgCFUbBzYRUhWOZl8hAJfVoO560nM5wL7Uj0='; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self' data:; connect-src 'self' https://graph.microsoft.com https://login.microsoftonline.com https://marklochrie.co.uk https://openpanel.marklochrie.co.uk https://openpanel.dev; frame-src https://login.microsoftonline.com; worker-src 'self' blob:; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; object-src 'none'"
+          "value": "default-src 'self'; script-src 'self' https://openpanel.dev 'sha256-fCsui8nEgCFUbBzYRUhWOZl8hAJfVoO560nM5wL7Uj0='; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://api.dicebear.com; font-src 'self' data:; connect-src 'self' https://graph.microsoft.com https://login.microsoftonline.com https://marklochrie.co.uk https://openpanel.marklochrie.co.uk https://openpanel.dev https://*.sharepoint.com https://*.onedrive.com https://api.dicebear.com https://*.ingest.de.sentry.io; frame-src https://login.microsoftonline.com; worker-src 'self' blob:; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; object-src 'none'"
         }
       ]
     }
