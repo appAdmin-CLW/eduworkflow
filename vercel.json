@@ -1,6 +1,15 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/index.html" }
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://www.clayton-le-woods.lancs.sch.uk/",
+      "permanent": false
+    },
+    {
+      "source": "/(.*)",
+      "destination": "https://www.clayton-le-woods.lancs.sch.uk/",
+      "permanent": false
+    }
   ]
 }
