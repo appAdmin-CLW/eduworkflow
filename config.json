@@ -15,8 +15,8 @@
   "PassportSchoolPhrase": "With God We Grow",
   "IsMainLogo": true, 
   "IsSecondaryLogo": true,
-  "BackendUrl": "https://marklochrie.co.uk/eduworkflow/backend/common",
-  "AiBackendUrl": "https://marklochrie.co.uk/eduworkflow/backend/ai",
+  "BackendUrl": "https://eduworkflow.uk/eduworkflow/backend/common",
+  "AiBackendUrl": "https://eduworkflow.uk/eduworkflow/backend/ai",
   "AnalyticsUrl": "https://openpanel.eduworkflow.uk",
   "AnalyticsBackendUrl": "https://openpanel.eduworkflow.uk/backend/analytics"
 }
