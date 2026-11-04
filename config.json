@@ -15,8 +15,9 @@
   "PassportSchoolPhrase": "With God We Grow",
   "IsMainLogo": true, 
   "IsSecondaryLogo": true,
-  "BackendUrl": "https://eduworkflow.uk/backend/common",
-  "AiBackendUrl": "https://eduworkflow.uk/backend/ai",
+  "BackendUrl": "https://eduworkflow.uk/eduworkflow/backend/common",
+  "AiBackendUrl": "https://eduworkflow.uk/eduworkflow/backend/ai",
   "AnalyticsUrl": "https://openpanel.eduworkflow.uk",
-  "AnalyticsBackendUrl": "https://openpanel.eduworkflow.uk/backend/analytics"
+  "AnalyticsBackendUrl": "https://openpanel.eduworkflow.uk/backend/analyticsss",
+  "redirectUrl": "https://www.clayton-le-woods.lancs.sch.uk/"
 }
