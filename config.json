@@ -18,6 +18,6 @@
   "BackendUrl": "https://eduworkflow.uk/eduworkflow/backend/common",
   "AiBackendUrl": "https://eduworkflow.uk/eduworkflow/backend/ai",
   "AnalyticsUrl": "https://openpanel.eduworkflow.uk",
-  "AnalyticsBackendUrl": "https://openpanel.eduworkflow.uk/backend/analyticsss",
+  "AnalyticsBackendUrl": "https://openpanel.eduworkflow.uk/backend/analytics",
   "redirectUrl": "https://www.clayton-le-woods.lancs.sch.uk/"
 }
