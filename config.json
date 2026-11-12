@@ -20,5 +20,5 @@
   "AnalyticsUrl": "https://openpanel.eduworkflow.uk",
   "AnalyticsBackendUrl": "https://openpanel.eduworkflow.uk/backend/analytics",
   "redirectUrl": "https://www.clayton-le-woods.lancs.sch.uk/",
-  "newAnalyticsUrl": "https://eduworkflow.uk/eduworkflow/backend/analytics"
+  "NewAnalyticsUrl": "https://eduworkflow.uk/eduworkflow/backend/analytics"
 }
