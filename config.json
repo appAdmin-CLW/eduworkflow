@@ -15,7 +15,7 @@
   "PassportSchoolPhrase": "With God We Grow",
   "IsMainLogo": true, 
   "IsSecondaryLogo": true,
-  "BackendUrl": "https://eduworkflow.chici.org/eduworkflow/backend/common/",
+  "BackendUrl": "https://eduworkflow.chici.org/eduworkflow/backend/common",
   "AiBackendUrl": "https://eduworkflow.chici.org/eduworkflow/backend/ai",
   "AnalyticsUrl": "https://openpanel.eduworkflow.uk",
   "AnalyticsBackendUrl": "https://openpanel.eduworkflow.uk/backend/analytics",
